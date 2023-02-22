@@ -4,7 +4,11 @@ The Posit webinar Series is being hosted by the National Stock Assessment Progra
 
 # Webinars
 
-## Upcoming: 2 - 14 - 2023 - Fall in love with Quarto for Reproducible Report Writing.
+## 2 - 14 - 2023 - Fall in love with Quarto for Reproducible Report Writing.
+
+- Link to recording comming soon!
+- [Quarto Slides](https://colorado.posit.co/rsc/quarto-reporting/quarto-for-reporting.html)
+- [Jeremy's materials](https://github.com/jeremy-allen/posit-webinar-series/tree/main/03-quarto)
 
 ## 1 - 10 - 2023 - R Markdown and flexdashboard
 
@@ -17,6 +21,6 @@ The Posit webinar Series is being hosted by the National Stock Assessment Progra
 Source Quarto doc  
 - [Rendered Quarto doc that was presented](https://colorado.posit.co/rsc/the-unknown/into-the-unknown.html)  
 
-## Tentatively Scheduled Webinars
+## Future Webinars
 
-- March 2023 = Shiny and HTML widgets
+- 3 14 2023 - Shiny and HTML widgets
