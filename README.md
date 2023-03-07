@@ -4,7 +4,7 @@ The Posit webinar Series is being hosted by the National Stock Assessment Progra
 
 # Webinars
 
-## 2 - 14 - 2023 - Fall in love with Quarto for Reproducible Report Writing.
+## 2 - 14 - 2023 - Quarto for Reproducible Report Writing.
 
 - [Link to recording (NOAA internal only)](https://drive.google.com/file/d/10ECqtLRhOGLsRYFYhWO5AEDoaCAf1cX9/view?usp=share_link)
 - [Quarto Slides](https://colorado.posit.co/rsc/quarto-reporting/quarto-for-reporting.html)
