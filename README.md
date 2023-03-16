@@ -8,6 +8,7 @@ The Posit webinar Series is being hosted by the National Stock Assessment Progra
 
 - Link to recording coming soon!
 - [Slides](https://colorado.posit.co/rsc/shiny-and-widgets/shiny-slides.html#/)
+- [Jeremy's materials](https://github.com/jeremy-allen/posit-webinar-series/tree/main/04-shiny-and-htmlwidgets)
 
 ## 2 - 14 - 2023 - Quarto for Reproducible Report Writing.
 
