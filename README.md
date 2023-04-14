@@ -4,9 +4,11 @@ The Posit webinar Series is being hosted by the National Stock Assessment Progra
 
 # Webinars
 
+
+
 ## 3 - 14- 2023 - Shiny and Html Widgets
 
-- Link to recording coming soon!
+- [Link to recording (NOAA internal only)](https://drive.google.com/file/d/17r9nvLsGnAZRCaxjIegF1YTSa30oOTHY/view?usp=share_link)
 - [Slides](https://colorado.posit.co/rsc/shiny-and-widgets/shiny-slides.html#/)
 - [Jeremy's materials](https://github.com/jeremy-allen/posit-webinar-series/tree/main/04-shiny-and-htmlwidgets)
 
@@ -29,4 +31,5 @@ Source Quarto doc
 
 ## Future Webinars
 
-- 3 14 2023 - Shiny and HTML widgets
+- 4 - 14 - 2023 Show & tell, Q & A
+- 5 - 16 - 2023 
