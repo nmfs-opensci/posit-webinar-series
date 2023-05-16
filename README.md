@@ -4,7 +4,14 @@ The Posit webinar Series is being hosted by the National Stock Assessment Progra
 
 # Webinars
 
+## - 5 - 16 - 2023 - Three ways to deploy to Connect
+
+- [Slides](https://colorado.posit.co/rsc/publishing-to-connect/)
+- Link to Recording (NOAA internal only) coming soon!
+- [Q+A(NOAA internal only)](https://docs.google.com/spreadsheets/d/1OufuaVTN1u2EfmbO4kWGpZOyT8b9sLa2ECgnGGLBrcI/edit#gid=0)
+
 ## - 4 - 14 - 2023 Show & tell, Q & A
+
 - Link to Recording (NOAA internal only) coming soon!
 
 ## 3 - 14- 2023 - Shiny and Html Widgets
@@ -32,6 +39,4 @@ Source Quarto doc
 
 ## Future Webinars
 
-
-- 5 - 16 - 2023 - Three ways to deploy to Connect
-- 6 - 13 - 2023 - TBD
+- 6 - 13 - 2023 - Using APIs in your workflow
