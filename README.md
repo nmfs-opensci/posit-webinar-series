@@ -4,6 +4,10 @@ The Posit webinar Series is being hosted by the National Stock Assessment Progra
 
 # Webinars
 
+## - 6 - 13 - 2023 - Using and creating APIs
+- [Slides](https://github.com/kmasiello/getting-started-apis)
+- Link to recording - coming soon!
+
 ## - 5 - 16 - 2023 - Three ways to deploy to Connect
 
 - [Slides](https://colorado.posit.co/rsc/publishing-to-connect/)
@@ -40,4 +44,4 @@ Source Quarto doc
 
 ## Future Webinars
 
-- 6 - 13 - 2023 - Using and creating APIs
+- 7 - 11 - 2023 - Using the purrr R package
