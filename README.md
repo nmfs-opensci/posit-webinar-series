@@ -6,7 +6,7 @@ The Posit webinar Series is being hosted by the National Stock Assessment Progra
 
 ## - 6 - 13 - 2023 - Using and creating APIs
 - [Slides](https://github.com/kmasiello/getting-started-apis)
-- Link to recording - coming soon!
+- [Link to recording](https://drive.google.com/file/d/1maHQtBCElvmuhTydAz0g2bawS4UUvCjk/view?usp=drive_link)
 
 ## - 5 - 16 - 2023 - Three ways to deploy to Connect
 
@@ -44,4 +44,4 @@ Source Quarto doc
 
 ## Future Webinars
 
-- 7 - 11 - 2023 - Using the purrr R package
+- 7 - 11 - 2023 - Iterating well with purrr. In this webinar we discuss approaches to iteration in R. We briefly discuss iterative techniques that do not require loops or `purrr::map_*()` functions (for example, group_by, vectorized functions, etc.). Then we explore lists as an object to store information of varying types and sizes and explain how to extract elements from a list via the `purrr::map_*()` family. We'll also touch on how some of these ideas and techniques are also exposed in tidyr.
