@@ -1,12 +1,19 @@
 # posit-webinar-series
 ---
-The Posit webinar Series is being hosted by the National Stock Assessment Program during FY2023. It is being lead by [Jeremy Allen](https://github.com/jeremy-allen), our Posit customer success representative. Jeremy has provided [source materials in a GitHub repository](https://github.com/jeremy-allen/posit-webinar-series).
+The Posit webinar Series is being hosted by the National Stock Assessment Program during FY2023. It is being lead by [Jeremy Allen](https://github.com/jeremy-allen), our Posit customer success representative with occasional additional guests from Posit. Jeremy has provided [source materials in a GitHub repository](https://github.com/jeremy-allen/posit-webinar-series).
 
 # Webinars
 
+## - 7 - 11 - 2023 - Iterating well with purrr by Jenny Bryan
+
+In this webinar we discuss approaches to iteration in R. We briefly discuss iterative techniques that do not require loops or `purrr::map_*()` functions (for example, group_by, vectorized functions, etc.). Then we explore lists as an object to store information of varying types and sizes and explain how to extract elements from a list via the `purrr::map_*()` family. We'll also touch on how some of these ideas and techniques are also exposed in tidyr.
+- [Slides and other resources]( https://github.com/jennybc/2023_raukr-purrr-pkg-dev)
+- [Link to recording (NOAA internal only)](https://drive.google.com/file/d/1P_yYtAuKnG-pCfT0tCWdL_zxR-0nhHsR/view?usp=drive_link)
+
+
 ## - 6 - 13 - 2023 - Using and creating APIs
 - [Slides](https://github.com/kmasiello/getting-started-apis)
-- [Link to recording](https://drive.google.com/file/d/1maHQtBCElvmuhTydAz0g2bawS4UUvCjk/view?usp=drive_link)
+- [Link to recording (NOAA internal only)](https://drive.google.com/file/d/1maHQtBCElvmuhTydAz0g2bawS4UUvCjk/view?usp=drive_link)
 
 ## - 5 - 16 - 2023 - Three ways to deploy to Connect
 
@@ -43,5 +50,11 @@ Source Quarto doc
 - [Rendered Quarto doc that was presented](https://colorado.posit.co/rsc/the-unknown/into-the-unknown.html)  
 
 ## Future Webinars
+Have ideas? Open an issue to let us know!
 
-- 7 - 11 - 2023 - Iterating well with purrr. In this webinar we discuss approaches to iteration in R. We briefly discuss iterative techniques that do not require loops or `purrr::map_*()` functions (for example, group_by, vectorized functions, etc.). Then we explore lists as an object to store information of varying types and sizes and explain how to extract elements from a list via the `purrr::map_*()` family. We'll also touch on how some of these ideas and techniques are also exposed in tidyr.
+Potential topics include:
+- Parallelization in R
+- git, projects, and the `usethis` package
+- R package development and the `usethis` package
+
+
