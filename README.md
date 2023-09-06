@@ -4,24 +4,26 @@ The Posit webinar Series is being hosted by the National Stock Assessment Progra
 
 # Webinars
 
-## - 7 - 11 - 2023 - Iterating well with purrr by Jenny Bryan
+## 8 - 2023 - No webinar this month
+
+## 7 - 11 - 2023 - Iterating well with purrr by Jenny Bryan
 
 In this webinar we discuss approaches to iteration in R. We briefly discuss iterative techniques that do not require loops or `purrr::map_*()` functions (for example, group_by, vectorized functions, etc.). Then we explore lists as an object to store information of varying types and sizes and explain how to extract elements from a list via the `purrr::map_*()` family. We'll also touch on how some of these ideas and techniques are also exposed in tidyr.
 - [Slides and other resources]( https://github.com/jennybc/2023_raukr-purrr-pkg-dev)
 - [Link to recording (NOAA internal only)](https://drive.google.com/file/d/1P_yYtAuKnG-pCfT0tCWdL_zxR-0nhHsR/view?usp=drive_link)
 
 
-## - 6 - 13 - 2023 - Using and creating APIs
+## 6 - 13 - 2023 - Using and creating APIs
 - [Slides](https://github.com/kmasiello/getting-started-apis)
 - [Link to recording (NOAA internal only)](https://drive.google.com/file/d/1maHQtBCElvmuhTydAz0g2bawS4UUvCjk/view?usp=drive_link)
 
-## - 5 - 16 - 2023 - Three ways to deploy to Connect
+## 5 - 16 - 2023 - Three ways to deploy to Connect
 
 - [Slides](https://colorado.posit.co/rsc/publishing-to-connect/)
 - [Link to Recording (NOAA internal only)](https://drive.google.com/file/d/14Qb0hnjLkff0_9-oejxTXmEoV6TeYdD-/view?usp=sharing)
 - [Q+A(NOAA internal only)](https://docs.google.com/spreadsheets/d/1OufuaVTN1u2EfmbO4kWGpZOyT8b9sLa2ECgnGGLBrcI/edit#gid=0)
 
-## - 4 - 14 - 2023 Show & tell, Q & A
+## 4 - 14 - 2023 Show & tell, Q & A
 
 - [Link to Recording (NOAA internal only)](https://drive.google.com/file/d/1Vek90HEktp2ri-ULBn_0IGhEqyUkhNfH/view?usp=sharing)
 - [Q+A spreadsheet (NOAA internal only)](https://docs.google.com/spreadsheets/d/1OufuaVTN1u2EfmbO4kWGpZOyT8b9sLa2ECgnGGLBrcI/edit?usp=sharing)
@@ -50,6 +52,9 @@ Source Quarto doc
 - [Rendered Quarto doc that was presented](https://colorado.posit.co/rsc/the-unknown/into-the-unknown.html)  
 
 ## Future Webinars
+
+- 9 - 12 - 2023 - Best practices for parallel processing with the futureverse
+
 Have ideas? Open an issue to let us know!
 
 Potential topics include:
