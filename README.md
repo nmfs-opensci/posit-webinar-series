@@ -4,6 +4,11 @@ The Posit webinar Series is being hosted by the National Stock Assessment Progra
 
 # Webinars
 
+## 9 - 2023 - Moving Faster With R: Parallel Processing
+
+- [Slides](https://colorado.posit.co/rsc/parallel-processing/parallel.html#/)
+- Link to recording coming soon!
+
 ## 8 - 2023 - No webinar this month
 
 ## 7 - 11 - 2023 - Iterating well with purrr by Jenny Bryan
@@ -53,12 +58,11 @@ Source Quarto doc
 
 ## Future Webinars
 
-- 9 - 12 - 2023 - Best practices for parallel processing with the futureverse
+- 10 - 2023 - R package developement
 
 Have ideas? Open an issue to let us know!
 
 Potential topics include:
-- Parallelization in R
 - git, projects, and the `usethis` package
 - R package development and the `usethis` package
 
