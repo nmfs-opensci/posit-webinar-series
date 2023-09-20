@@ -4,10 +4,10 @@ The Posit webinar Series is being hosted by the National Stock Assessment Progra
 
 # Webinars
 
-## 9 - 2023 - Moving Faster With R: Parallel Processing
+## 9 - 2023 - Moving Faster With R: Parallel Processing (overview)
 
 - [Slides](https://colorado.posit.co/rsc/parallel-processing/parallel.html#/)
-- Link to recording coming soon!
+- [Link to recording (NOAA internal only)](https://drive.google.com/file/d/1qLdvb84cGwroCZXsjMyL_lq7RFbv1iOH/view?usp=drive_link)
 
 ## 8 - 2023 - No webinar this month
 
