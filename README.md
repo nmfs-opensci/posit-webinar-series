@@ -7,7 +7,7 @@ The Posit webinar Series is being hosted by the National Stock Assessment Progra
 ## 10 - 2023 - Rstudio projects with git and the usethis package
 
 - [Slides](https://colorado.posit.co/rsc/git-rstudio/)
-- Link to recording (NOAA internal only) coming soon!
+- [Link to recording (NOAA internal only)](https://drive.google.com/file/d/11G7JHdeK0B8uHZjc_dR4qP9igM1cTUX0/view?usp=sharing)
 
 We will demo making new RStudio projects, new git repositories, adding git to existing projects, using the RStudio UI for changelists, diffing files, staging, committing, and viewing history, using the terminal tab for git functions not built into the UI, some useful functions in the usethis package, and deploying a git-back project to Posit Connect. If time allows, we may talk about SSH and git credentials.
 
