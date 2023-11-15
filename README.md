@@ -4,6 +4,12 @@ The Posit webinar Series is being hosted by the National Stock Assessment Progra
 
 # Webinars
 
+## 11 - 2023 - Practical Parallel Workflows
+
+- [Link to Recording (NOAA internal only)](https://drive.google.com/file/d/1vu0-0nPygyBtYWYsDMGiYUMXX9dDuoTz/view?usp=drive_link)
+- [Slides from Roger Andrea at Posit](https://colorado.posit.co/rsc/parallel_thinking/Parallel_Thinking.html)
+- Description: Come for a more informal session of the Posit Webinar! This month, we'll be discussing Practical Parallel Processing Workflows with Jeremy Allen and guests from Posit. We would love to have you share your experiences (and code) for Parallel Processing, either from R or not. We will focus on easy to parallelize problems (what is colloquially known as "perfectly parallel" or "embarassingly parallel" situations). This will be a more interactive and discussion-based session, with lots of time to demo workflows, and ask and answer questions. The folks from Posit will also share their experiences in Parallel processing.
+
 ## 10 - 2023 - Rstudio projects with git and the usethis package
 
 - [Slides](https://colorado.posit.co/rsc/git-rstudio/)
