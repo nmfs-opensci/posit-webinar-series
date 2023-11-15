@@ -71,9 +71,8 @@ Source Quarto doc
 
 ## Future Webinars
 
-- 11 - 2023 - Parallel workflow discussion
-- 12 - 2023 - R package developement
+- 12 - 2023 - R package development
 
-Have ideas? Open an issue to let us know!
+Have ideas for future topics? Open an issue to let us know!
 
 
