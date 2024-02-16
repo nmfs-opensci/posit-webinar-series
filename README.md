@@ -3,6 +3,10 @@
 The Posit webinar Series is being hosted by the National Stock Assessment Program during FY2023. It is being lead by [Jeremy Allen](https://github.com/jeremy-allen), our Posit customer success representative with occasional additional guests from Posit. Jeremy has provided [source materials in a GitHub repository](https://github.com/jeremy-allen/posit-webinar-series).
 
 # Webinars
+## 02 - 2024 - Creating and Sharing R Packages by Ryan Johnson
+- [Link to Recording (NOAA internal only)](https://drive.google.com/file/d/1YGdLO0axKhSuGdI6rfrPqVC89Oz0Blvs/view?usp=drive_link)
+- [Link to Slides (NOAA internal only)](https://drive.google.com/file/d/1y7nFjsCu4_-wQHD-4yOBKbaSRyHati_G/view?usp=drive_link)
+- Description: During this 1-hour workshop, users will get hands-on experience creating a simple R package. We'll then discuss ways to share this package using tools such as Posit Package Manager.
 
 ## 11 - 2023 - Practical Parallel Workflows
 
@@ -70,8 +74,6 @@ Source Quarto doc
 - [Rendered Quarto doc that was presented](https://colorado.posit.co/rsc/the-unknown/into-the-unknown.html)  
 
 ## Future Webinars
-
-- 12 - 2023 - R package development
 
 Have ideas for future topics? Open an issue to let us know!
 
