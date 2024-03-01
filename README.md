@@ -75,6 +75,8 @@ Source Quarto doc
 
 ## Future Webinars
 
-Have ideas for future topics? Open an issue to let us know!
+## 3 - 12 - 2024 - Reproducible Environments using renv
+
+Have ideas for future topics? Open an issue to let us know 
 
 
