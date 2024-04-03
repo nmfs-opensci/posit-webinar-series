@@ -3,6 +3,12 @@
 The Posit webinar Series is being hosted by the National Stock Assessment Program during FY2023. It is being lead by [Jeremy Allen](https://github.com/jeremy-allen), our Posit customer success representative with occasional additional guests from Posit. Jeremy has provided [source materials in a GitHub repository](https://github.com/jeremy-allen/posit-webinar-series).
 
 # Webinars
+
+## 3 - 12 - 2024 - Reproducible Environments using renv by Ryan Johnson
+- [Link to Recording (NOAA internal only)](https://drive.google.com/file/d/1HLIzkbvykndelu2UYR0dEATj316Ha-GT/view?usp=drive_link)
+- [Link to Slides (NOAA internal only)](https://drive.google.com/file/d/1eg4LjgLocqyftt62qIQzoRA9E0PAhUZo/view?usp=drive_link)
+- Description: The renv (https://rstudio.github.io/renv/index.html) package helps create reproducible environments for your R projects. In this training we will cover: renv overview, Managing project libraries, Initializing, snapshotting, and restoring R project libraries using renv.
+
 ## 02 - 2024 - Creating and Sharing R Packages by Ryan Johnson
 - [Link to Recording (NOAA internal only)](https://drive.google.com/file/d/1YGdLO0axKhSuGdI6rfrPqVC89Oz0Blvs/view?usp=drive_link)
 - [Link to Slides (NOAA internal only)](https://drive.google.com/file/d/1y7nFjsCu4_-wQHD-4yOBKbaSRyHati_G/view?usp=drive_link)
@@ -75,8 +81,8 @@ Source Quarto doc
 
 ## Future Webinars
 
-## 3 - 12 - 2024 - Reproducible Environments using renv
+- 04-09-24: Q+A with Hadley Wickham on object-oriented programming and package development
 
-Have ideas for future topics? Open an issue to let us know 
+Have ideas for future topics? Open an issue to let us know!
 
 
