@@ -1,6 +1,6 @@
 # posit-webinar-series
 ---
-The Posit webinar Series is being hosted by the National Stock Assessment Program during FY2023. It is being lead by [Jeremy Allen](https://github.com/jeremy-allen), our Posit customer success representative with occasional additional guests from Posit. Jeremy has provided [source materials in a GitHub repository](https://github.com/jeremy-allen/posit-webinar-series).
+The Posit webinar Series is being hosted by the National Stock Assessment Program. It is being lead by [Jeremy Allen](https://github.com/jeremy-allen), our Posit customer success representative with occasional additional guests from Posit. Jeremy has provided [source materials in a GitHub repository](https://github.com/jeremy-allen/posit-webinar-series).
 
 # Webinars
 
