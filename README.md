@@ -3,7 +3,11 @@
 The Posit webinar Series is being hosted by the National Stock Assessment Program. It is being lead by [Jeremy Allen](https://github.com/jeremy-allen), our Posit customer success representative with occasional additional guests from Posit. Jeremy has provided [source materials in a GitHub repository](https://github.com/jeremy-allen/posit-webinar-series).
 
 # Webinars
-
+## 4 - 9- 2024 -Q+A on object-oriented programming and package development with Hadley Wickham
+- [Link to Recording (NOAA internal only)](https://drive.google.com/file/d/1ZZ2FLugdDxgCAX3wwpKN0Aav2uNciT-K/view?usp=drive_link)
+- [Link to Questions (NOAA internal only)](https://docs.google.com/document/d/1ZpY845OhSy4Kdto7jhtze3KGWdXvdJ_H_0-XV066tmc/edit#heading=h.psvjba484lb0)
+- Description:  Hadley Wickham, Chief Scientist at Posit and developer of a number of well known R packages including many in the Tidyverse, will join us for an informal question and answer session on object-oriented programming in R (i.e., using classes) and R package development.
+  
 ## 3 - 12 - 2024 - Reproducible Environments using renv by Ryan Johnson
 - [Link to Recording (NOAA internal only)](https://drive.google.com/file/d/1HLIzkbvykndelu2UYR0dEATj316Ha-GT/view?usp=drive_link)
 - [Link to Slides (NOAA internal only)](https://drive.google.com/file/d/1eg4LjgLocqyftt62qIQzoRA9E0PAhUZo/view?usp=drive_link)
